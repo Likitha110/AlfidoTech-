@@ -1,4 +1,4 @@
-**Iris Flower Classification**
+**Task-1: Iris Flower Classification**
 
 
 **Description:**
@@ -25,7 +25,7 @@ Libraries: NumPy, Pandas, Seaborn, Matplotlib, scikit-learn
 
 
 
-**Movie Rating Prediction**
+**Task-2:Movie Rating Prediction**
 
 
 This project aims to predict movie ratings based on user demographics and movie attributes. The dataset used for this prediction contains information about movies, ratings given by users, and user demographics. We utilize machine learning algorithms such as Logistic Regression and K-Nearest Neighbors for prediction.
@@ -65,7 +65,7 @@ scikit-learn
 
 
 
-**Titanic Survival Prediction**
+**Task-3:Titanic Survival Prediction**
 
 
 **Description:**
