@@ -23,6 +23,7 @@ Evaluated models using accuracy, precision, recall, and F1-score metrics.
 Libraries: NumPy, Pandas, Seaborn, Matplotlib, scikit-learn
 
 
+
 **Movie Rating Prediction**
 
 This project aims to predict movie ratings based on user demographics and movie attributes. The dataset used for this prediction contains information about movies, ratings given by users, and user demographics. We utilize machine learning algorithms such as Logistic Regression and K-Nearest Neighbors for prediction.
@@ -33,7 +34,7 @@ This project aims to predict movie ratings based on user demographics and movie 
 
 **movies.dat**: Contains information about movies including MovieID, MovieName, and Genres.
 
-|**ratings.dat:** Provides user ratings for movies including ID, MovieID, Ratings, and Timestamp.
+**ratings.dat:** Provides user ratings for movies including ID, MovieID, Ratings, and Timestamp.
 
 **users.dat:** Contains user demographic information including UserID, Gender, Age, category, and Zip-code.
 
@@ -41,6 +42,7 @@ This project aims to predict movie ratings based on user demographics and movie 
 **Model Training**
 
 **Logistic Regression:** To predict movie ratings based on user demographics.
+
 **K-Nearest Neighbors Classifier:** To classify movies based on user attributes.
 
 **Model Evaluation**
@@ -58,6 +60,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+
 
 
 **Titanic Survival Prediction**
