@@ -1,5 +1,6 @@
 **Iris Flower Classification**
 
+
 **Description:**
 
 This project focuses on the classification of Iris flowers into three species: Setosa, Versicolor, and Virginica, based on four features: sepal length, sepal width, petal length, and petal width. The dataset used for this classification task is the Iris Flower Dataset, which contains 150 samples with equal distribution among the three species.
@@ -25,6 +26,7 @@ Libraries: NumPy, Pandas, Seaborn, Matplotlib, scikit-learn
 
 
 **Movie Rating Prediction**
+
 
 This project aims to predict movie ratings based on user demographics and movie attributes. The dataset used for this prediction contains information about movies, ratings given by users, and user demographics. We utilize machine learning algorithms such as Logistic Regression and K-Nearest Neighbors for prediction.
 
@@ -64,6 +66,7 @@ scikit-learn
 
 
 **Titanic Survival Prediction**
+
 
 **Description:**
 
